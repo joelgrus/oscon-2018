@@ -1,0 +1,5 @@
+ipython  # nice terminal
+numpy    # linear algebra
+mypy     # type checking
+pytest   # unit tests
+pylint   # linting
